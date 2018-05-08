@@ -1,0 +1,41 @@
+.header{
+   background: #414042;
+   text-align: center;
+   overflow: hidden;
+   padding: 5px 5px;
+   width: 100%;
+   box-sizing: border-box;
+}
+
+.header h1{
+    font-family:sans-serif;
+    color: #d14d0c;
+}
+
+h2{
+    font-family:sans-serif;
+    text-align: center;
+}
+.online{
+    color:#4CAF50;
+}
+
+.offline{
+    color:#d14d0c;
+}
+
+.imgLoad{
+font-size: 20px;
+}
+
+#divImg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 40%;
+}
+
+.displaynone{
+    display: none;
+}
